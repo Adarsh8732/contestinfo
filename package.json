@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "pdfkit": "^0.12.1",
+    "prompt": "^1.1.0",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2"
+  },
+  "name": "raw",
+  "version": "1.0.0",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
